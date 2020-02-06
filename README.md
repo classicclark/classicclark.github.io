@@ -8,7 +8,7 @@ Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability a
 
 See it in action: http://steinvc.github.io/holo-alfa/.
 
-## Feature highlights ##
+## Feature ##
 
 * Mobile first design
 * Extensive content styling
